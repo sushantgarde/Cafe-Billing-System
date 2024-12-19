@@ -65,4 +65,4 @@ If you have any feedback, please reach out to us at gardesushant1@gmail.com
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the project and submit a pull request.
 
 ## License 📜
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
